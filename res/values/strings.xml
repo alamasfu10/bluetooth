@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bluetooth</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt">Bluetooth</string>
+    <string name="enable_bt">Enable BT</string>
+    <string name="disable_bt">Disable BT</string>
+
+</resources>
